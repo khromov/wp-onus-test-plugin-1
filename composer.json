@@ -1,0 +1,6 @@
+{
+  "name": "khromov/wp-onus-test-plugin-2",
+  "require": {
+    "guzzle/guzzle": "3.8.*"
+  }
+}
